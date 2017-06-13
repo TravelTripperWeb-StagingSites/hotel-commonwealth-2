@@ -1,6 +1,6 @@
 {
-    "name": "The Restaurant",
-    "description":  "Sample local specialties at our restaurant. Dining room opens from 6am to 11pm and with 24 hour room service available.",
-    "order": 1,
-    "hidden": false
+  "name": "Business, Other Amenities",
+  "description": " <br />Featured amenities include complimentary wired Internet access, a 24-hour business center, and express check-in. Planning an event in Boston? This hotel has facilities measuring 12500 square feet (1161 square meters), including meeting rooms.",
+  "order": 2,
+  "hidden": false
 }
